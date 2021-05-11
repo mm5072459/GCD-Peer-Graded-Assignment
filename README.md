@@ -2,7 +2,7 @@
 This is mm5072459's completed assignment for the Getting and Cleaning Data course project.
 
 # Dataset
-Human Activity Recognition Using Smartphones
+Human Activity Recognition Using Smartphones: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 # Files
 - CodeBook.md: a code book that describes the data, the variables and the work i've done to help clean the data.
