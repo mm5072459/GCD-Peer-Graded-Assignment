@@ -35,10 +35,10 @@ The run_analysis.R script performs the data preparation and then followed by the
 
  6. **Appropriately labels the data set with descriptive variable names**
     - The code column in TidyData is renamed into activities
-    - The Acc in column’s name are replaced by Accelerometer
-    - The Gyro in column’s name are replaced by Gyroscope
-    - The BodyBody in column’s name are replaced by Body
-    - The Mag in column’s name are replaced by Magnitude
+    - The Acc in column’s name is replaced by Accelerometer
+    - The Gyro in column’s name is replaced by Gyroscope
+    - The BodyBody in column’s name is replaced by Body
+    - The Mag in column’s name is replaced by Magnitude
     - All the entries that start with character f in column’s name are replaced by Frequency
     - All the entries that start with character t in column’s name are replaced by Time
 
