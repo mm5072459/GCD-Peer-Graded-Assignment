@@ -44,4 +44,4 @@ The run_analysis.R script performs the data preparation and then followed by the
 
  7. **From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject**
     - CleanData (180 rows, 88 columns): summarizing the TidyData by taking the means of each variable for each activity and each subject, after being grouped by the subject and activity.
-    - Export CleanData into CleanData.txt file.
+    - Export the CleanData into CleanData.txt file.
