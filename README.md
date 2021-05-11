@@ -1,5 +1,5 @@
 # GCD Peer-graded Assignment
-This repository is my submission for the Getting and Cleaning Data course project.
+This is mm5072459's completed assignment for the Getting and Cleaning Data course project.
 
 # Dataset
 Human Activity Recognition Using Smartphones
