@@ -5,7 +5,7 @@ This is mm5072459's completed assignment for the Getting and Cleaning Data cours
 Human Activity Recognition Using Smartphones
 
 # Files
-- CodeBook.md a code book that describes the data, the variables and the work i've done to help clean the data.
+- CodeBook.md: a code book that describes the data, the variables and the work i've done to help clean the data.
 
 - run_analysis.R completes the 5 steps needed in the course project’s definition:
  
