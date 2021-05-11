@@ -39,8 +39,8 @@ The run_analysis.R script performs the data preparation and then followed by the
     - The Gyro in column’s name are replaced by Gyroscope
     - The BodyBody in column’s name are replaced by Body
     - The Mag in column’s name are replaced by Magnitude
-    - All he entries that start with character f in column’s name are replaced by Frequency
-    - All he entries that start with character t in column’s name are replaced by Time
+    - All the entries that start with character f in column’s name are replaced by Frequency
+    - All the entries that start with character t in column’s name are replaced by Time
 
  7. **From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject**
     - CleanData (180 rows, 88 columns): summarizing the TidyData by taking the means of each variable for each activity and each subject, after being grouped by the subject and activity.
